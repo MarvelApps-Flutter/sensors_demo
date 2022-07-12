@@ -1,12 +1,12 @@
-# carousel_module
+# sensors_demo
 
-A flutter app demonstrating the use of Carousel using a simple UI.
+A flutter app demonstrating the differernt sensors in flutter module.
 
 
  # Demo
   <table>
   <tr>
-  <td><img src="https://github.com/MarvelApps-Flutter/carousel_demo/blob/dev/working_demo/carousel_module.gif" height="480px"></td>
+  <td><img src="https://github.com/MarvelApps-Flutter/sensors_demo/blob/dev/working_demo/.gif" height="480px"></td>
     </tr>
   </table>
 
@@ -14,7 +14,7 @@ A flutter app demonstrating the use of Carousel using a simple UI.
 
 <table>
   <tr>
-    <td><img src="https://github.com/MarvelApps-Flutter/carousel_demo/blob/dev/screenshots/android/android1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/sensors_demo/blob/dev/screenshots/android/android1.png" height="480px"></td>
   </tr>
  </table>
 
@@ -25,7 +25,7 @@ A flutter app demonstrating the use of Carousel using a simple UI.
 
 <table>
   <tr>
-    <td><img src="https://github.com/MarvelApps-Flutter/carousel_demo/blob/dev/screenshots/ios/ios1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/sensors_demo/blob/dev/screenshots/ios/.png" height="480px"></td>
   </tr>
  </table>
 
