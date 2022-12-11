@@ -1,4 +1,4 @@
-# sensors_demo
+# Sensors Module
 
 A flutter app demonstrating the differernt sensors in flutter module.
 
@@ -6,7 +6,7 @@ A flutter app demonstrating the differernt sensors in flutter module.
  # Demo
   <table>
   <tr>
-  <td><img src="https://github.com/MarvelApps-Flutter/sensors_demo/blob/master/working_demo/.gif" height="480px"></td>
+  <td><img src="https://github.com/MarvelApps-Flutter/sensors_demo/blob/master/working_demo/sensor_module.gif" height="480px"></td>
     </tr>
   </table>
 
@@ -25,7 +25,7 @@ A flutter app demonstrating the differernt sensors in flutter module.
 
 <table>
   <tr>
-    <td><img src="https://github.com/MarvelApps-Flutter/sensors_demo/blob/master/screenshots/ios/.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/sensors_demo/blob/master/screenshots/ios/ios1.png" height="480px"></td>
   </tr>
  </table>
 
